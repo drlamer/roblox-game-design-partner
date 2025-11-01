@@ -4,6 +4,16 @@ Transform game concepts into polished Roblox experiences
 
 ## Installation
 
+### From GitHub (Recommended)
+
+```bash
+claude plugin install github.com/drlamer/roblox-game-design-partner
+```
+
+### From Marketplace
+
+If this plugin is added to a marketplace:
+
 ```bash
 /plugin marketplace add owner/repo
 /plugin install roblox-game-design-partner@marketplace-name

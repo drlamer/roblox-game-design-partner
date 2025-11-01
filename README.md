@@ -4,8 +4,21 @@ Transform game concepts into polished Roblox experiences
 
 ## Installation
 
+### Local Installation
+
 ```bash
-claude plugin install github.com/drlamer/roblox-game-design-partner-plugin
+# Clone the repository
+git clone https://github.com/drlamer/roblox-game-design-partner-plugin.git
+
+# Install the plugin
+claude plugin install ./roblox-game-design-partner-plugin
+```
+
+### Verify Installation
+
+```bash
+/plugin list
+# Should show: roblox-game-design-partner v1.0.0
 ```
 
 ## Commands

@@ -4,19 +4,8 @@ Transform game concepts into polished Roblox experiences
 
 ## Installation
 
-### From GitHub (Recommended)
-
 ```bash
-claude plugin install github.com/drlamer/roblox-game-design-partner
-```
-
-### From Marketplace
-
-If this plugin is added to a marketplace:
-
-```bash
-/plugin marketplace add owner/repo
-/plugin install roblox-game-design-partner@marketplace-name
+claude plugin install github.com/drlamer/roblox-game-design-partner-plugin
 ```
 
 ## Commands
@@ -32,3 +21,13 @@ If this plugin is added to a marketplace:
 
 - **luau-code-generation**: Generate Roblox Luau scripts with proper API usage and error handling
 - **quality-gate-validation**: Validate game quality across 3 tiers (Essential, Enhancement, Sophistication)
+
+## Usage
+
+After installation, use the `/roblox-design` command with your game concept:
+
+```bash
+/roblox-design "Create a medieval castle with interactive towers and a drawbridge"
+```
+
+The plugin will guide you through a 10-phase development workflow to build your complete Roblox game.

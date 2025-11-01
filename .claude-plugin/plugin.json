@@ -5,8 +5,5 @@
   "author": {
     "name": "drlamer",
     "url": "https://github.com/drlamer"
-  },
-  "commands": ["./commands"],
-  "agents": ["./agents"],
-  "skills": ["./skills"]
+  }
 }

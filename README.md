@@ -4,6 +4,16 @@ Transform game concepts into polished Roblox experiences
 
 ## Installation
 
+### From Marketplace (Recommended)
+
+```bash
+# Add the marketplace (one-time setup)
+/plugin marketplace add drlamer/claude-plugins-marketplace
+
+# Install the plugin
+/plugin install roblox-game-design-partner@drlamer
+```
+
 ### Local Installation
 
 ```bash
